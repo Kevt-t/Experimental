@@ -5,8 +5,8 @@
 - 💻 Passionate about web development and AI
 - 🌱 Currently learning Web Front End Development and Full Stack Web Development
 ## My Projects
-- [Project 1]: Brief description
-- [Project 2]: Brief description
+- [Project 1]: Post Check
+- [Project 2]: Milestone
 ## Connect with Me
 - [LinkedIn]
 - [Twitter]
